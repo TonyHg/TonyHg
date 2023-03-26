@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tony Heng</h1>
 <h3 align="center">A passionate frontend developer from France. I'm a tech enthusiast who loves to learn about new things.</h3>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Qwik**
 
-- 👨‍💻 All of my projects are available at [https://tonyhg.github.io/Portfolio/](https://tonyhg.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://portfolio-tonyhg.vercel.app/](https://portfolio-tonyhg.vercel.app/)
 
 - 💬 Ask me about **Frontend optimization, react, next.js, typescript**
 
